@@ -19,3 +19,5 @@ Dependencies:
 
 Note: Make sure to have an active MQTT broker for successful publishing.
 
+Customise this by inserting your Unique Property Reference Number which can be found here: https://uprn.uk/postcode [eg: "100081226975" - Newbury Town Hall]
+Also be sure to change your MQTT broker address, username and password
